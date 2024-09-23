@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @cursivecoder
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning C, Python
+- 💞️ I’m looking to collaborate on Python specific projects  
+- 📫 How to reach me cursivecoder@gmail.com  
+- ⚡ Fun fact: I'm not a CSE student!
